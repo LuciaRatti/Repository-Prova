@@ -2,3 +2,5 @@
 2. Inizio modellazione oggetto
 3. Variazione gamba
 4. Fine gamba e copia altre gambe
+5. Modellazione cassetto
+6. Modellazione ripiano
